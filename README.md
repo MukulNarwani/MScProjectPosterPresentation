@@ -1,7 +1,7 @@
 # MSC Dissertation: Path planning using Genetic Algorithms and Artificial Potential Fields in Dynamic Environments
 
 ## Contents
-[Demonstration](https://github.com/MukulNarwani/MScProjectPosterPresentation/blob/main/README.md#L30)
+[References](#references)
 
 ## Video Demonstrations
 
@@ -25,7 +25,7 @@
 ## Figures
 
 ---
-## References
+## [References]
 
 [TODO make using pandoc and actions]
 
