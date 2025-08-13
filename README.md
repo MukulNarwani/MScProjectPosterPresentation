@@ -1,8 +1,22 @@
 # MSC Dissertation: Path planning using Genetic Algorithms and Artificial Potential Fields in Dynamic Environments
 ## Video Demonstrations
 
-[![Watch the demo](Assets/no_cluster.png)](Assests/no_cluster_720.mp4)
+### No clustering
 
+<img src="Assests/no_cluster_720.gif" alt="Alt Text" width="1000">
+<img src="Assests/no_cluster.png" alt="Alt Text" width="500">
+
+### Genotype clustering
+
+<img src="Assests/Genotype_cluster_720.gif" alt="Alt Text" width="1000">
+<img src="Assests/genotype_cluster.png" alt="Alt Text" width="500">
+
+### Phenotype clustering
+
+<img src="Assests/phenotype_clustering.gif" alt="Alt Text" width="1000">
+<img src="Assests/phenotype_cluster.png" alt="Alt Text" width="500">
+
+---
 
 ## Figures
 
