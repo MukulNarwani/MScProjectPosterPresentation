@@ -1,7 +1,7 @@
 # MSC Dissertation: Path planning using Genetic Algorithms and Artificial Potential Fields in Dynamic Environments
 ## Video Demonstrations
 
-[![Watch the demo](Assets/no_cluster.png)](media/no_cluster_720.mp4)
+[![Watch the demo](Assets/no_cluster.png)](Assets/no_cluster_720.mp4)
 
 
 ## Figures
